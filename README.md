@@ -7,7 +7,9 @@ El laboratorio pertenece a hegdepavankumar.
 
 **Topologia**
 *En esta topologia el switch capa 3 realiza el enrutamiento entre ambas VLANs
+
 *Vlan 10: IT
+
 *Vlan 20: HR
 
 <img width="749" height="729" alt="TopologiaLAb" src="https://github.com/user-attachments/assets/5b33b1c5-df7e-4256-b677-17a46e79f1b0" />
